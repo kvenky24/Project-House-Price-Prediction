@@ -160,6 +160,20 @@ The project includes:
 
 ---
 
+## Requirements
+
+Install required libraries using:
+
+```bash
+pip install -r requirements.txt
+```
+
+Required Libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 ## Author
 
 Venky
