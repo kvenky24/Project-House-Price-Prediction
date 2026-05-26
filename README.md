@@ -159,6 +159,21 @@ The project includes:
 - Model Evaluation
 
 ---
+## How to Run the Project
+
+### Clone Repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+### Open Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
 
 ## Requirements
 
@@ -168,12 +183,6 @@ Install required libraries using:
 pip install -r requirements.txt
 ```
 
-Required Libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
 ## Author
 
 Venky
